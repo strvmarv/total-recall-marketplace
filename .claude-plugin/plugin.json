@@ -1,0 +1,8 @@
+{
+  "name": "total-recall-marketplace",
+  "description": "Claude Code marketplace registry for total-recall plugin",
+  "version": "1.0.0",
+  "author": {
+    "name": "strvmarv"
+  }
+}
